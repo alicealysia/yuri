@@ -7,6 +7,9 @@
       <excludeFolder url="file://$MODULE_DIR$/node_modules" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/NiGUIri/@girs" />
+      <excludeFolder url="file://$MODULE_DIR$/hyprslut/@girs" />
+      <excludeFolder url="file://$MODULE_DIR$/siscon/@girs" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
