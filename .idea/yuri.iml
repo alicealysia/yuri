@@ -10,6 +10,7 @@
       <excludeFolder url="file://$MODULE_DIR$/NiGUIri/@girs" />
       <excludeFolder url="file://$MODULE_DIR$/hyprslut/@girs" />
       <excludeFolder url="file://$MODULE_DIR$/siscon/@girs" />
+      <excludeFolder url="file://$MODULE_DIR$/hyprslut/tree-sitter-javascript" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

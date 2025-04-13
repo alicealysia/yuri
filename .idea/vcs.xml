@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/NiGUIri" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hyprslut" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hyprslut/tree-sitter-javascript" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/siscon" vcs="Git" />
   </component>
 </project>
