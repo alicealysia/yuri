@@ -10,5 +10,9 @@
         // "allowJs": true,
         "jsx": "react-jsx",
         "jsxImportSource": "astal/gtk4",
+        "skipLibCheck": true,
+        "allowUnusedLabels": true,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false
     }
 }
